@@ -1,4 +1,4 @@
-## AJILA EdTech
+## AJILA EdTech PROJECT BY AVINASH JOHAL || AJ
 
 **A comprehensive e-learning platform**
 
@@ -19,6 +19,8 @@ AJILA EdTech is a full-stack web application designed to empower learners with a
 
 **Here are some screenshots showcasing the platform's functionalities (Replace with placeholders or actual screenshots):**
 
+## AJILA HOME
+
 **Image of Home Page**
 ![AJILA _ Home (1)](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/f2a02fb8-3365-4b06-8b04-6c17903bb7be)
 
@@ -36,11 +38,28 @@ AJILA EdTech is a full-stack web application designed to empower learners with a
 ![AJILA _ AI-Roadmap Page](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/ec8cd56a-63fe-487f-8ae5-ca8bbe58d24a)
 
 
+
 ## User Model
+
+*User Login*
+![User Login](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/b1248ba5-7c25-48cc-b79a-b82c9a3d66c5)
+
+*User Register*
+![User Register](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/f16680d8-bf0e-4970-bcb0-a2ad3b094290)
+
+*Before User Login - Image of Couse Enrollment Page*
+![AJILA _ Course Detail](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/001c718b-7e25-402c-90f5-e0db9ecb25cb)
+
+*After Login - Image of Couse Enrollment Page*
+![AJILA _ Course Detail (1)](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/d8bd70c7-e005-48a1-878f-6b78bf0b298a)
+
+*After Enrollment - Image of Couse Enrollment Page*
+![AJILA _ Course Detail (2)](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/be1b8340-5f17-44c6-b86f-60852ddbadb3)
+
 *User Dashboard Image*
 ![User Dashboard](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/e3854c38-8120-41cf-8969-81ea6f82db04)
 
-*User 
+
 
 ## Teacher Modle
 *Teacher Register*
@@ -122,14 +141,3 @@ AJILA EdTech is a full-stack web application designed to empower learners with a
    npm start  # or yarn start
    ```
 
-**Deployment**
-
-Instructions for deploying the application to a production environment will be added soon.
-
-**Contributing**
-
-We welcome contributions from the community! Please refer to the CONTRIBUTING.md file for guidelines on how to contribute to the project.
-
-**License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
