@@ -61,7 +61,7 @@ AJILA EdTech is a full-stack web application designed to empower learners with a
 
 
 
-## Teacher Modle
+## Teacher Model
 *Teacher Register*
 ![Teacher Register (1)](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/d3fa73e6-ecb9-4a13-b834-96bd5a3244b2)
 
