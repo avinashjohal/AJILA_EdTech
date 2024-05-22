@@ -21,6 +21,12 @@ AJILA EdTech is a full-stack web application designed to empower learners with a
 
 ## AJILA HOME
 
+**A Short Video of How the website working.**
+https://tinyurl.com/2ccnmud8
+
+https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/82473015-5dbc-41ba-8d4b-c63f43f4637d
+
+
 **Image of Home Page**
 ![AJILA _ Home (1)](https://github.com/avinashjohal/AJILA_EdTech/assets/93833286/f2a02fb8-3365-4b06-8b04-6c17903bb7be)
 
